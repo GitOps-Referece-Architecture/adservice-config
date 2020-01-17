@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
   repository: peishu/adservice
-  tag: ad4bb24808529967a97a89de94f865e4d02b3075
+  tag: 01e73b58402b51376a9b46eaa665b8212cce7b95
   pullPolicy: IfNotPresent
 nameOverride: ""
 fullnameOverride: ""
